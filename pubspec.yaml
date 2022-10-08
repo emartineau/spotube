@@ -54,7 +54,7 @@ dependencies:
   mime: ^1.0.2
   metadata_god: ^0.2.0
   visibility_detector: ^0.3.3
-  fl_query: ^0.3.0
+  fl_query: ^0.3.1
   fl_query_hooks: ^0.3.0
   flutter_inappwebview: ^5.4.3+7
 
